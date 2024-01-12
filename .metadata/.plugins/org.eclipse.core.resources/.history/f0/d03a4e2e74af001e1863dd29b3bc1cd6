@@ -1,0 +1,13 @@
+package inheritance;
+
+public class Rabbit extends Monster {
+	
+	
+	
+
+	public Rabbit(String name, int hp, int atk, int def, int exp) {
+		super("토끼", 3, 0, 0, 5);
+	}
+	
+
+}

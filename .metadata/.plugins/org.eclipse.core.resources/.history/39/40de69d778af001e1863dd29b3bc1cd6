@@ -1,0 +1,8 @@
+package inheritance;
+
+public class Ghost extends Monster{
+
+	public Ghost() {
+		super("유령",3,2,1,2);
+	}
+}

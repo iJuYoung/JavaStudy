@@ -1,0 +1,17 @@
+package overload;
+
+public class Cat {
+
+	public String name ;
+	public String kind;
+	
+	
+	public Cat(String k, String n) {
+		kind = k;
+		name = n;
+		
+		if(n != null||k != null) {
+			System.out.println("지금부터 이 아이의 이름은 "+n+"입니다. ");
+		}
+	}
+}

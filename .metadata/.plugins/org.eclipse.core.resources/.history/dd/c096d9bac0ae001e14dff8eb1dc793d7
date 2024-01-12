@@ -1,0 +1,16 @@
+package oneDimensionArrayTest;
+
+import java.io.*;
+
+public class InputBall {
+	
+	
+	//N,M,
+
+	public static void main(String[] args) throws IOException {
+		int n = System.in.read();
+		
+		
+	}
+
+}

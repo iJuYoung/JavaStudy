@@ -1,0 +1,21 @@
+package Encapsulation.bad;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		//같은 패키지 내부의 클래스파일을 가져다 쓸 떄는 임포트 할 필요 없음. 
+		
+		
+		//MyBirthday b = new MyBirthday();
+		
+		/*b.year = 2000;
+		b.month = 1;
+		b.day = 1;
+		
+		
+		b.showDateInfo();*/
+
+	}
+
+}

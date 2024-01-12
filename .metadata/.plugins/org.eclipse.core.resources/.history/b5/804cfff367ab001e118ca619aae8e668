@@ -1,0 +1,14 @@
+package equals.array;
+import java.util.Arrays;
+
+
+public class ArrayEqualsTest {
+
+	public static void main(String[] args) {
+		int[] intArray1 = {1,2,3,4,45};
+		System.out.println("배열1의 주소 : "+intArray1);
+		
+		System.out.println("배열1의 실제 값 : "+Arrays.toString(intArray1));
+		System.out.println("-------------------------");
+	}
+}

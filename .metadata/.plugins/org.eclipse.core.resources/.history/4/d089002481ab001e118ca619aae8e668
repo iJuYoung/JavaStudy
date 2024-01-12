@@ -1,0 +1,18 @@
+package override;
+
+public class Human {
+	
+	public String name;
+	public int age;
+	
+	
+	@override
+	public void 자기소개하기() {
+		
+	}
+	public void 코딩하기() {
+		
+	}
+	
+
+}

@@ -1,0 +1,6 @@
+package accessmodifier.class_.pack2;
+import accessmodifier.class_.pack1.A;
+
+public class C {
+
+}

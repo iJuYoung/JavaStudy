@@ -1,0 +1,17 @@
+package overload;
+
+public class HumanMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Human클래스 기본생성자
+		//매개변수생성자 (String, int)
+		
+		Human h1 = new Human();
+		Human h2 = new Human("이주영",25);
+		
+
+	}
+
+}
